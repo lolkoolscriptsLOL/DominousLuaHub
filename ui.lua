@@ -13,7 +13,7 @@ local G2L = {};
 -- StarterGui.backdoor.exe v8
 G2L["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
 G2L["1"]["ResetOnSpawn"] = false;
-G2L["1"]["Name"] = [[backdoor.exe v8]];
+G2L["1"]["Name"] = [[dominus.Lua]];
 G2L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 
 -- StarterGui.backdoor.exe v8.Main
@@ -1072,7 +1072,7 @@ G2L["60"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["60"]["TextSize"] = 23;
 G2L["60"]["TextColor3"] = Color3.fromRGB(233, 233, 233);
 G2L["60"]["Size"] = UDim2.new(0, 100, 0, 40);
-G2L["60"]["Text"] = [[Games]];
+G2L["60"]["Text"] = [[Experiences]];
 G2L["60"]["Name"] = [[Title]];
 G2L["60"]["Font"] = Enum.Font.SourceSansBold;
 G2L["60"]["BackgroundTransparency"] = 1;
@@ -1237,7 +1237,7 @@ G2L["73"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["73"]["TextSize"] = 18;
 G2L["73"]["TextColor3"] = Color3.fromRGB(15, 140, 217);
 G2L["73"]["Size"] = UDim2.new(1, 0, 0, 50);
-G2L["73"]["Text"] = [[Scan games and save here all successfully scanned ones!]];
+G2L["73"]["Text"] = [[Scan experiences and save the successful scanned ones here!]];
 G2L["73"]["Name"] = [[info]];
 G2L["73"]["Font"] = Enum.Font.Nunito;
 G2L["73"]["BackgroundTransparency"] = 1;
@@ -1337,7 +1337,7 @@ G2L["7e"]["TextSize"] = 18;
 G2L["7e"]["TextColor3"] = Color3.fromRGB(233, 233, 233);
 G2L["7e"]["AnchorPoint"] = Vector2.new(0, 0.5);
 G2L["7e"]["Size"] = UDim2.new(0, 100, 1, 0);
-G2L["7e"]["Text"] = [[Name]];
+G2L["7e"]["Text"] = ["dominous.Lua"];
 G2L["7e"]["Name"] = [[Title]];
 G2L["7e"]["Font"] = Enum.Font.SourceSans;
 G2L["7e"]["BackgroundTransparency"] = 1;
