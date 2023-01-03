@@ -26,7 +26,7 @@ if genv.backdoorexe then
 end
 
 --// UI \\--
-local screenGui, uiRequire = loadstring(game:HttpGet("https://github.com/lolkoolscriptsLOL/DominousLuaHub/blob/main/ui.lua"))()
+local screenGui, uiRequire = loadstring(game:HttpGet("https://raw.githubusercontent.com/lolkoolscriptsLOL/DominousLuaHub/main/ui.lua"))()
 local alertLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/uniquadev/GuiToLuaConverter/main/PluginPlace/src/alerts.lua"))()
 
 local ui = uiRequire(screenGui.main);
